@@ -5,5 +5,5 @@ module findable
       @name == name
     end
   end
-  
+
 end
